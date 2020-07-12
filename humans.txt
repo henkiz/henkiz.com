@@ -1,0 +1,13 @@
+/* TEAM */
+
+Developer: Bruno Wego
+Site: http://brunowego.com
+Twitter: @brunowego
+Location: Brasília, Brazil
+
+
+/* SITE */
+
+Standards: HTML5, CSS3, WCAG 2.0 AA
+Components: ITCSS, BEM, Grunt
+Software: Visual Studio Code
