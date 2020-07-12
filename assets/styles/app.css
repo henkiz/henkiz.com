@@ -1168,6 +1168,8 @@ h6 {
     -webkit-box-flex: 1;
         -ms-flex-positive: 1;
             flex-grow: 1; }
+  .hero__title {
+    display: none; }
   .hero__img {
     vertical-align: bottom; }
   .hero__board {
