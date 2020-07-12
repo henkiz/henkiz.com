@@ -209,6 +209,7 @@ h6 {
     text-decoration: none; }
 
 @font-face {
+  font-display: swap;
   font-family: 'Hicon';
   font-style: normal;
   font-weight: normal;
