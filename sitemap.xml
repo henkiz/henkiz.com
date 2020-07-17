@@ -2,85 +2,97 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://henkiz.com/about.html</loc>
-    <lastmod>2020-07-16T22:15:17.337Z</lastmod>
+    <lastmod>2020-07-17T01:27:33.864Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://henkiz.com/blog.html</loc>
-    <lastmod>2020-07-16T22:15:17.338Z</lastmod>
+    <lastmod>2020-07-17T01:27:33.865Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://henkiz.com/brands.html</loc>
-    <lastmod>2020-07-16T22:15:17.339Z</lastmod>
+    <lastmod>2020-07-17T01:27:33.866Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://henkiz.com/careers.html</loc>
-    <lastmod>2020-07-16T22:15:17.340Z</lastmod>
+    <lastmod>2020-07-17T01:27:33.867Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://henkiz.com/contact.html</loc>
-    <lastmod>2020-07-16T22:15:17.342Z</lastmod>
+    <lastmod>2020-07-17T01:27:33.868Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://henkiz.com/cookies.html</loc>
+    <lastmod>2020-07-17T01:27:33.870Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://henkiz.com/events.html</loc>
-    <lastmod>2020-07-16T22:15:17.343Z</lastmod>
+    <lastmod>2020-07-17T01:27:33.871Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://henkiz.com/forgot.html</loc>
+    <lastmod>2020-07-17T01:27:33.872Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://henkiz.com/franchises.html</loc>
-    <lastmod>2020-07-16T22:15:17.344Z</lastmod>
+    <lastmod>2020-07-17T01:27:33.873Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://henkiz.com/grid.html</loc>
-    <lastmod>2020-07-16T22:15:17.347Z</lastmod>
+    <lastmod>2020-07-17T01:27:33.878Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://henkiz.com/</loc>
-    <lastmod>2020-07-16T22:15:17.350Z</lastmod>
+    <lastmod>2020-07-17T01:27:33.881Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://henkiz.com/login.html</loc>
-    <lastmod>2020-07-16T22:15:17.352Z</lastmod>
+    <lastmod>2020-07-17T01:27:33.882Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://henkiz.com/privacity.html</loc>
-    <lastmod>2020-07-16T22:15:17.353Z</lastmod>
+    <lastmod>2020-07-17T01:27:33.883Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://henkiz.com/register.html</loc>
-    <lastmod>2020-07-16T22:15:17.355Z</lastmod>
+    <lastmod>2020-07-17T01:27:33.884Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://henkiz.com/styleguide.html</loc>
-    <lastmod>2020-07-16T22:15:17.358Z</lastmod>
+    <lastmod>2020-07-17T01:27:33.887Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://henkiz.com/terms.html</loc>
-    <lastmod>2020-07-16T22:15:17.359Z</lastmod>
+    <lastmod>2020-07-17T01:27:33.888Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
